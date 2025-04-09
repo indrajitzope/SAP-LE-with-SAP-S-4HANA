@@ -1,0 +1,21 @@
+sap-le-s4hana-integration/
+├── README.md
+├── docs/
+│   ├── architecture-overview.md
+│   ├── functional-flow-le-sd.md
+│   ├── wm-to-mm-integration.md
+│   ├── asr-vs-classic-shipping.md
+│   └── ewm-integration-guide.md
+├── bapis-idocs/
+│   ├── delivery_bapi_usage.md
+│   ├── idoc_shipment_creation.md
+│   └── transfer_order_idoc.md
+├── technical-scripts/
+│   ├── bapi_outbound_delivery_create.abap
+│   ├── goods_issue_post.abap
+│   └── idoc_monitoring_report.abap
+├── integration-patterns/
+│   ├── delivery-to-wm-iflow.md
+│   ├── sd-to-asr-integration.md
+│   └── transportation-with-tm.md
+└── changelog.md
